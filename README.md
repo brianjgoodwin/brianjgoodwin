@@ -5,7 +5,7 @@ I’m doing a lot of stuff with computers right now.
 ### Projects & Interests
 - **Apple platform apps** – Two apps published on the App Stores, including a journaling app for iOS and a minimalist, Markdown text editor for macOS. Mostly SwiftUI.
 - **Data analysis & visualization** – At work, I build dashboards, analyze sales patterns, and segment customers.
-- **Web experiments** – I tinker with HTML, CSS, and JavaScript to make stuff.
+- **Web experiments** – I tinker with HTML, CSS, and JavaScript to make fun stuff.
 
 ---
 You can reach me @ gmail (brianjgoodwin) and [LinkedIn](https://www.linkedin.com/in/brian-j-goodwin/). Blog at [Micro.blog](https://bgoodwin.micro.blog)
